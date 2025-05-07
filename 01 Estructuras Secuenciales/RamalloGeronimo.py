@@ -1,7 +1,7 @@
 # Ejercicio 1
 print("Hola Mundo") 
 print("\n")
-
+print("Hola Mundo", end="\n\n")
 # Ejercicio 2
 nombre = input("Ingrese su nombre: ")
 print(f"Hola {nombre}!")
